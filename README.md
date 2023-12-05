@@ -12,14 +12,16 @@ The data was taken from the Kaggle database [kaggle.com](https://www.kaggle.com/
     
 ### Goals of this project   
 
-* Practice EDA: Data Loading, Data Familiarization, Data Cleaning;   
+* Practice EDA: Data Loading, Data Familiarization, Data Cleaning;
+* Outliers Excluding;
 * Processing Categorical Variables.    
 
 ### Steps   
 
 * Data Loading   
 * Getting Familiar With the Data    
-* Missing Values Processing      
+* Missing Values Processing
+* Outliers Excluding    
 * Preparing Data for Training    
 * Coding the Categorical Variables   
 * Training the Model  
