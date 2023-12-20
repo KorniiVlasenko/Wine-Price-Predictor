@@ -1,7 +1,7 @@
-# Wine Price Predictor    
+# Wine Price Predictor   
 
 
-In this project I will apply EDA, missing value processing, and categorical data coding. The project is purely a learning project.    
+In this project I will apply EDA, preprocessing, XGBRegressor() and Cross-Validation. This is a purely learning project.    
 
 
 The data was taken from the Kaggle database [kaggle.com](https://www.kaggle.com/)  
@@ -12,16 +12,20 @@ The data was taken from the Kaggle database [kaggle.com](https://www.kaggle.com/
     
 ### Goals of this project   
 
-* Practice EDA: Data Loading, Data Familiarization, Data Cleaning;
-* Outliers Excluding;
-* Processing Categorical Variables.    
+* Practice EDA: Data Loading, Data Familiarization, Data Visualization;   
+* Practice Preprocessing: Outliers Excluding, Missing Values Processing, Coding Categorical Variables;  
+* Practice XGBRegressor() and Cross-Validation.   
 
 ### Steps   
 
 * Data Loading   
-* Getting Familiar With the Data    
-* Missing Values Processing
-* Outliers Excluding    
-* Preparing Data for Training    
-* Coding the Categorical Variables   
-* Training the Model  
+* Getting Familiar with the Data    
+* Selecting Features for Model Training    
+* Splitting Data   
+* Outliers Excluding     
+* Missing Values Processing     
+* Combining Small Categories    
+* Coding Categorical Variables   
+* Training the Model    
+* Model Evaluation   
+
